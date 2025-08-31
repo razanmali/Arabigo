@@ -1,2 +1,3 @@
 # Arabigo
-An app to learn Arabic language.
+Веб-платформа для изучения арабского языка.
+Вы можете ознакомиться с развернутой версией по этой ссылке: [https://arabigo-deploy.vercel.app/](url)
